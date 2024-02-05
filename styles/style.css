@@ -1,0 +1,38 @@
+html {
+    background-color: #ffdead;
+  font-size: 40px; 
+  font-family: 'Caveat', cursive;
+}
+h1, h2, h3, h4 {
+    text-align: center;
+}
+p, li {
+    letter-spacing: 1px;
+}
+body {
+    width: 1800px;
+    margin: 0 auto;
+
+}
+.laugh {
+    display: inline-block;
+}
+.picture-right {
+    float: right;
+    margin: 15px;
+}
+.picture-left {
+    float: left;
+    margin: 15px;
+}
+img {
+    
+    display: block;
+    margin: 0 auto;
+  }
+.middle {
+    width: 1300px;
+}
+.cleared {
+    clear: both;
+}
